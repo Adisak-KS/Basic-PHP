@@ -1,0 +1,5 @@
+HTML Tag
+PHP Tag
+คำสั่งของ PHP
+Whitespace
+Comment (อธิบาย code)
